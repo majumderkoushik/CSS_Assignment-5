@@ -1,0 +1,66 @@
+h1,body{
+    margin: 0;
+}
+#header{
+    background-color: black;
+    height: 60px;
+}
+.title {
+    color:white;
+    text-align: center;
+    width: 40%;
+    height: 60px;
+    float: left;
+    line-height: 60px;
+}
+.nav {
+    width: 60%;
+    text-align: center;
+    float: right;
+    height: 60px;
+    line-height: 60px;
+}
+a {
+    color: white;
+    margin-right: 45px;
+    text-decoration: none;
+}
+.ps {
+    text-align: center;
+    background: linear-gradient(45deg,black,red,black);
+    border-radius: 50%;
+    width: 40%;
+    color: white;
+    margin: auto;
+    padding: 10px;
+}
+table {
+    width: 100%;
+}
+img {
+    border-radius: 30px;
+}
+#pizza {
+    margin-top: 50px;
+    text-align: center;
+}
+#fries {
+    margin-top: 50px;
+    text-align: center;
+}
+h1,h4 {
+    color: white;
+}
+
+i {
+    margin-right: 25px;
+}
+
+
+#footer {
+    background-color: rgb(40, 20, 20);
+    color:white;
+    text-align: center;
+    padding: 50px;
+    margin-top: 100px;
+}
